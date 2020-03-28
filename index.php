@@ -109,7 +109,7 @@
 							</h3>
 						</div>
 					</div>
-					<a class="smoth-scroll" href="https://dgnew.herokuapp.com/#about"><i class="fa fa-angle-down arrow lift"></i></a>
+					<a class="smoth-scroll" href="https://dgnew.github.io/#about"><i class="fa fa-angle-down arrow lift"></i></a>
 				</div>
 			</div>
 		</div>
