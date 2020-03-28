@@ -58,7 +58,7 @@
 			<div class="row">
 				<div class="col-sm-3">
 					<div class="logo">
-						<a class="smoth-scroll" href="https://dgnew.herokuapp.com/#home">Rebecca.</a>
+						<a class="smoth-scroll" href="https://dgnew.herokuapp.com/#home">dgnew</a>
 					</div>
 				</div>
 
