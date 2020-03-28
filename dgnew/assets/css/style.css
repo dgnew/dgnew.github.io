@@ -702,7 +702,7 @@ body:before {
 /* 08. PORTFOLIO
 =================================================*/
 
-#portfolio {
+#education {
 	padding: 90px 0 80px;
 	background: #b7d1c0
 }
@@ -872,20 +872,20 @@ body:before {
 /* 09. SERVICES
 =================================================*/
 
-#services {
+#skills {
 	padding: 95px 0 65px;
 	background: #ced6c2;
 }
 
-#services h2 {
+#skills h2 {
 	margin-bottom: 30px;
 }
 
-.services-item {
+.skills-item {
 	padding: 30px 50px 30px 0;
 }
 
-.services-item i {
+.skills-item i {
 	margin-bottom: 20px;
 }
 
