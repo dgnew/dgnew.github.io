@@ -153,17 +153,17 @@
 
 						<div class="col-md-6 col-sm-6 col-xs-6">
 							<div class="count-item">
-								<div class="numscroller roller-title-number-2 scrollzip" data-slno="2" data-min="0" data-max="5" data-delay="2" data-increment="1">5</div>
-								<div class="count-name-intro">Years of Intel Experience</div>
-							</div>
-						</div>						
-
-						<div class="col-md-6 col-sm-6 col-xs-6">
-							<div class="count-item">
-								<div class="numscroller roller-title-number-3 scrollzip" data-slno="3" data-min="0" data-max="12" data-delay="2" data-increment="1">12</div>
+								<div class="numscroller roller-title-number-2 scrollzip" data-slno="2" data-min="0" data-max="12" data-delay="2" data-increment="1">12</div>
 								<div class="count-name-intro">Years App Dev / IT Ops Experience</div>
 							</div>
 						</div>
+
+						<div class="col-md-6 col-sm-6 col-xs-6">
+							<div class="count-item">
+								<div class="numscroller roller-title-number-3 scrollzip" data-slno="3" data-min="0" data-max="5" data-delay="2" data-increment="1">5</div>
+								<div class="count-name-intro">Years of Intel Experience</div>
+							</div>
+						</div>						
 
 						<div class="col-md-6 col-sm-6 col-xs-6">
 							<div class="count-item">
