@@ -308,8 +308,8 @@
 					</div>
 
 					<div class="col-md-4 col-sm-4">
-						<i class="fa fa-whatsapp fa-2x"></i>
-						<p>4029906781</p>
+						<i class="fa fa-mobile fa-2x"></i>
+						<p>402.990.6781</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
