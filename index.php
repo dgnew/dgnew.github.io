@@ -168,7 +168,7 @@
 						<div class="col-md-6 col-sm-6 col-xs-6">
 							<div class="count-item">
 								<div class="numscroller roller-title-number-4 scrollzip" data-slno="4" data-min="0" data-max="12" data-delay="2" data-increment="1">12</div>
-								<div class="count-name-intro">Years of App Dev / IT Ops Experience</div>
+								<div class="count-name-intro">Years App Dev / IT Ops Experience</div>
 							</div>
 						</div>
 
